@@ -3,6 +3,7 @@ It is an application that takes into account an personal clock that begins at an
 # features:
 It is a Simple Digital clock created utilizing essential C++ ideas that shows hour, moment, and second.
 # screeensorts:
-![Screenshot (397)](https://user-images.githubusercontent.com/62562859/130398914-249d6812-f7a4-4eec-a0b7-3cdeec6a1a45.png)
+![Screenshot (398)](https://user-images.githubusercontent.com/62562859/130399024-06051fbd-0a4b-491a-ad59-80a4f61e16a9.png)
+
 # Author
 Yash Bharadwaj
